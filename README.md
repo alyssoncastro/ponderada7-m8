@@ -48,4 +48,6 @@ O modelo é treinado com o conjunto de dados MNIST, buscando uma acurácia super
 
 Este projeto foi desenvolvido no Visual Studio Code com a extensão Jupyter Notebook, facilitando o desenvolvimento interativo e a experimentação com o código.
 
-## vídeo:
+## Clique na imagem para ser direcionado para o vídeo:
+
+[![Texto Alternativo](/img/download.jpeg)](https://youtu.be/dOEl4CGLNE4?si=KcPM-niLAzle5Nxk)
